@@ -2,7 +2,7 @@
 
 The **Airbnb Welcome Message Bot** automates the process of greeting your guests, sending check-in details, and providing stay instructions automatically as soon as a booking is confirmed. This tool ensures a professional, consistent, and timely guest communication experience for Airbnb hosts.
 
-p align="center">
+<p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="media/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
 </p>
 <p align="center">
